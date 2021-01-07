@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "egg": "^2"
+    "egg": "^2",
+    "egg-validate": "^2.0.2"
   },
   "devDependencies": {
     "autod": "^3",
