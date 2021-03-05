@@ -1,10 +1,10 @@
 {
   "name": "egg-pie-framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "dependencies": {
     "egg": "^2",
-    "egg-validate": "^2.0.3"
+    "egg-validate": "^2.0.2"
   },
   "devDependencies": {
     "autod": "^3",
